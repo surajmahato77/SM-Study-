@@ -21,9 +21,9 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
   const postUrls = [
-    'https://addonsotechub.com/direct/2113',
-    'https://t.co/RPBnQZqZY9',
-'https://addonsotechub.com/direct/2120'
+    'https://www.dktechnozone.in/2024/10/400-graphics-thumbnail-pack.html',
+    'https://t.me/luxmoovies',
+'https://t.me/dktechnozone'
 
   ];
         function goToRandomPost() {
