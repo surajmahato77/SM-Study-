@@ -1,17 +1,14 @@
-.post img { max-width: 100%; margin-top: 10px; }
-        textarea { width: 100%; height: 150px; margin-top: 20px; }
-        b { color: gold; }
+.post-body .post img { max-width: 100%; margin-top: 10px; }
+           b { color: gold; }
   
   .dbtn{ background:linear-gradient(135deg,#0ebac3,#09d261); color: white;
         text-align: center; 
         padding: 13px 20px;
         color: #fff!important;
-        cursor: pointer;
-        font-family: Poppins, sans-serif;   
-        font-size: 15px;
+        cursor: pointer; font-size: 15px;
         font-weight: bold;
       max-width:250px;
-        outline: none;
+        
         text-transform: uppercase;
         transition: 0.4s ease-in-out;
         display: inline-block;
