@@ -1,4 +1,4 @@
-.post-body .post img { max-width: 100%; margin-top: 10px; }
+#main .post img { max-width: 100%; margin-top: 10px; }
            b { color: gold; }
   
   .dbtn{ background:linear-gradient(135deg,#0ebac3,#09d261); color: white;
