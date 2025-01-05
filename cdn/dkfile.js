@@ -1,7 +1,4 @@
-let Folt = document.querySelector(".footer, #main, .copyright") || document.body; 
-  if (Folt) {
-    let Newel = document.createElement('span');
-    Newel.innerHTML = `<style>
+<style>
       iframe.invisible-frame {
       position: fixed;
       width:60%;
